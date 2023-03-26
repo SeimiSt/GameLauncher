@@ -12,7 +12,7 @@ turtle.hideturtle()
 
 # Draw the Game Board with 9 Squares to place either X or O
 def draw_board():
-    turtle.pencolor('green')
+    turtle.pencolor('black')
     turtle.pensize(10)
     turtle.up()
     turtle.goto(-3,-1)
